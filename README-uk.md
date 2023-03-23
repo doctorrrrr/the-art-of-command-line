@@ -336,7 +336,7 @@
 - `lsblk`: cписок блокових пристроїв комп'ютера: дерево ваших дисків і логічних дисків
 - `lshw`, `lscpu`, `lspci`, `lsusb`, `dmidecode`: інформація про апаратне забезпечення, включає CPU, BIOS, RAID, графічну карту і т.д.
 - `lsmod` і `modinfo`: показує список і детальну інформацію модулів ядра.
-- `fortune`, `ddate`, and `sl`: um, well, it depends on whether you consider steam locomotives and Zippy quotations "useful"
+- `fortune`, `ddate`, and `sl`: ну, це залежить від того, чи вважаєте ви паровози та цитати Зіпі "корисними"
 
 
 ## Тільки для OS X
